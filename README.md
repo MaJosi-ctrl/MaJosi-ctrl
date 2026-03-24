@@ -13,4 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
 -->
+
+## 🏅 Certifications
+
+<p>
+  <a href="https://www.credly.com/badges/9b83985f-b9af-40c1-94e1-96c1569ad1fb/public_url">
+    <img src="https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="100" style="margin-right: 10px;"/>
+  </a>
