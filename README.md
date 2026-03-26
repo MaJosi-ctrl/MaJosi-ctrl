@@ -19,21 +19,28 @@ Sou uma pessoa que gosta de aprender e evoluir constantemente na área de Tecnol
 
 Tenho experiência com desenvolvimento web, utilizando tecnologias como:
 
-* HTML
-* CSS
-* JavaScript
+
+[![My skills](https://skillicons.dev/icons?i=javascript,css,html)](https://skillicons.dev)
 
 Estou sempre em busca de aprender novas ferramentas e aprofundar meus conhecimentos para me tornar uma desenvolvedora cada vez mais completa.
+
+## ⚙️ Ferramentas
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio)](https://skillicons.dev)<br><br>
 
 ## 🚀 Objetivo
 
 Meu objetivo é crescer profissionalmente na área de tecnologia, contribuindo com projetos inovadores e adquirindo cada vez mais experiência prática no desenvolvimento de sistemas.
 
 
+### 📫 **Contato:**  
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:majosecs.ctrl@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 
 ---
 
-⭐ Obrigada por visitar meu perfil!
+⭐ Obrigado por visitar meu perfil!
 
 
 
