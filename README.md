@@ -36,7 +36,7 @@ Meu objetivo é crescer profissionalmente na área de tecnologia, contribuindo c
 ### 📫 **Contato:**  
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:majosecs.ctrl@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marijosue_21?igsh=MTloMnI4dDdhOTQ3bQ==)
 
 ---
 
